@@ -17,3 +17,9 @@ TODO
 ----
 
 - return more details from the doctor
+
+
+Requirements
+
+- requests
+- beautifulSoup4
