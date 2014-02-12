@@ -1,0 +1,7 @@
+*.pyc
+__pycache__
+emacs.desktop
+bin/
+local/
+include/
+lib/
