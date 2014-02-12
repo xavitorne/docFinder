@@ -1,4 +1,4 @@
-"""Script to find doctor disponibility in apss trentino website."""
+"""Script to find doctor availability in apss trentino website."""
 
 import sys
 import requests
